@@ -6,7 +6,10 @@ Before you start, you will need:
 - Node.js 20+ and npm installed. You can download these from the Node.js official website.
 - A public IP address where your node will be accessible.
 - Sepolia JSON-RPC Endpoint (Recommended: Infura Sepolia RPC API).
-- A wallet with at least 0.2 Sepolia ETH.
+- Private key of a wallet with at least 0.2 Sepolia ETH. 
+
+## Disclaimer
+We do not have access to your private keys. They are only handled locally on your computer, ensuring your security and privacy.
 
 ## System Requirements
 - Windows 10 or later
